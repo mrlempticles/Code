@@ -16,6 +16,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrlempticles/Code/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrlempticles/Code/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
