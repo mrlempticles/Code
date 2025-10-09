@@ -8,6 +8,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
