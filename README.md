@@ -9,11 +9,13 @@ collection of my LeetCode Solutions
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +49,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
+## Sorting
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
