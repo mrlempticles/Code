@@ -38,6 +38,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
@@ -59,4 +60,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
