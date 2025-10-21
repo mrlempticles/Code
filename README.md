@@ -9,6 +9,7 @@ collection of my LeetCode Solutions
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
@@ -55,6 +56,7 @@ collection of my LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Trie
 |  |
@@ -64,4 +66,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
