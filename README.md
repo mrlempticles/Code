@@ -11,6 +11,7 @@ collection of my LeetCode Solutions
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 ## Hash Table
@@ -87,6 +88,7 @@ collection of my LeetCode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 ## Heap (Priority Queue)
 |  |
