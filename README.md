@@ -52,6 +52,7 @@ collection of my LeetCode Solutions
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -69,6 +70,7 @@ collection of my LeetCode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
