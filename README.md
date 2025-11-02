@@ -8,6 +8,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
@@ -99,6 +100,7 @@ collection of my LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -111,6 +113,7 @@ collection of my LeetCode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
