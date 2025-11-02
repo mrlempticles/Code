@@ -43,6 +43,7 @@ collection of my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mrlempticles/Code/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@ collection of my LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mrlempticles/Code/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
