@@ -66,6 +66,7 @@ collection of my LeetCode Solutions
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrlempticles/Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -148,9 +149,18 @@ collection of my LeetCode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
+## Depth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
