@@ -19,6 +19,7 @@ collection of my LeetCode Solutions
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -49,6 +50,7 @@ collection of my LeetCode Solutions
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mrlempticles/Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
 ## Recursion
@@ -137,6 +139,7 @@ collection of my LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mrlempticles/Code/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
@@ -165,4 +168,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
