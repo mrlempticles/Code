@@ -45,6 +45,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrlempticles/Code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mrlempticles/Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrlempticles/Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
