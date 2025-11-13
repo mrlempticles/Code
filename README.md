@@ -26,6 +26,7 @@ collection of my LeetCode Solutions
 | [3616-make-array-elements-equal-to-zero](https://github.com/mrlempticles/Code/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mrlempticles/Code/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mrlempticles/Code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ collection of my LeetCode Solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrlempticles/Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -72,6 +74,7 @@ collection of my LeetCode Solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrlempticles/Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -174,4 +177,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
