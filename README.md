@@ -11,6 +11,7 @@ collection of my LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -124,6 +125,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
