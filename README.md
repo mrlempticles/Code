@@ -72,6 +72,7 @@ collection of my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
@@ -126,6 +127,7 @@ collection of my LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -204,4 +206,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
