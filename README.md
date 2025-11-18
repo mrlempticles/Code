@@ -23,6 +23,7 @@ collection of my LeetCode Solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -41,6 +42,7 @@ collection of my LeetCode Solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
@@ -62,6 +64,7 @@ collection of my LeetCode Solutions
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mrlempticles/Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -149,6 +152,7 @@ collection of my LeetCode Solutions
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mrlempticles/Code/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
