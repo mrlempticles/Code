@@ -33,6 +33,7 @@ collection of my LeetCode Solutions
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mrlempticles/Code/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mrlempticles/Code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ collection of my LeetCode Solutions
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrlempticles/Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -160,6 +162,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -190,10 +193,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -213,6 +218,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Number Theory
 |  |
 | ------- |
@@ -221,4 +227,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
