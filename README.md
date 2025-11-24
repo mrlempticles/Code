@@ -30,6 +30,7 @@ collection of my LeetCode Solutions
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mrlempticles/Code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mrlempticles/Code/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mrlempticles/Code/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -75,6 +76,7 @@ collection of my LeetCode Solutions
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrlempticles/Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mrlempticles/Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -122,6 +124,7 @@ collection of my LeetCode Solutions
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +220,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
@@ -250,4 +254,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
