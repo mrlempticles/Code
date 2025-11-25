@@ -106,6 +106,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/mrlempticles/Code/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -265,4 +266,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mrlempticles/Code/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
