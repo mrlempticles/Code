@@ -24,6 +24,7 @@ collection of my LeetCode Solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrlempticles/Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -193,6 +194,7 @@ collection of my LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mrlempticles/Code/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Backtracking
@@ -235,6 +237,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
