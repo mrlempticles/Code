@@ -21,6 +21,7 @@ collection of my LeetCode Solutions
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -47,6 +48,7 @@ collection of my LeetCode Solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -187,6 +189,7 @@ collection of my LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrlempticles/Code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -233,6 +236,7 @@ collection of my LeetCode Solutions
 ## Design
 |  |
 | ------- |
+| [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 ## Matrix
