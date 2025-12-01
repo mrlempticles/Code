@@ -21,6 +21,7 @@ collection of my LeetCode Solutions
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -106,6 +107,7 @@ collection of my LeetCode Solutions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -133,6 +135,7 @@ collection of my LeetCode Solutions
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -180,6 +183,7 @@ collection of my LeetCode Solutions
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
