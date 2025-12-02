@@ -110,6 +110,7 @@ collection of my LeetCode Solutions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrlempticles/Code/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrlempticles/Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -219,6 +220,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrlempticles/Code/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Geometry
 |  |
 | ------- |
