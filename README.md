@@ -24,6 +24,7 @@ collection of my LeetCode Solutions
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -53,6 +54,7 @@ collection of my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -216,6 +218,7 @@ collection of my LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
