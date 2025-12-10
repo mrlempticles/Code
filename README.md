@@ -57,6 +57,7 @@ collection of my LeetCode Solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mrlempticles/Code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -119,6 +120,7 @@ collection of my LeetCode Solutions
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrlempticles/Code/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -222,6 +224,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -301,6 +304,7 @@ collection of my LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
