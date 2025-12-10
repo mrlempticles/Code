@@ -53,6 +53,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/mrlempticles/Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
@@ -84,6 +85,7 @@ collection of my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
