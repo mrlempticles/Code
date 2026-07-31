@@ -109,6 +109,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mrlempticles/Code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mrlempticles/Code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
@@ -148,6 +149,7 @@ collection of my LeetCode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mrlempticles/Code/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
@@ -181,6 +183,7 @@ collection of my LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mrlempticles/Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
