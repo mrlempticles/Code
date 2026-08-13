@@ -10,6 +10,7 @@ collection of my LeetCode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mrlempticles/Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
@@ -166,6 +167,7 @@ collection of my LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrlempticles/Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
@@ -189,6 +191,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrlempticles/Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrlempticles/Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mrlempticles/Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
