@@ -338,4 +338,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/mrlempticles/Code/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
