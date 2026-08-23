@@ -14,6 +14,7 @@ collection of my LeetCode Solutions
 | [0016-3sum-closest](https://github.com/mrlempticles/Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mrlempticles/Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
@@ -202,6 +203,7 @@ collection of my LeetCode Solutions
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/mrlempticles/Code/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
