@@ -23,6 +23,7 @@ collection of my LeetCode Solutions
 | [0040-combination-sum-ii](https://github.com/mrlempticles/Code/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/mrlempticles/Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -188,6 +189,7 @@ collection of my LeetCode Solutions
 | [0015-3sum](https://github.com/mrlempticles/Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mrlempticles/Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -273,6 +275,7 @@ collection of my LeetCode Solutions
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mrlempticles/Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
