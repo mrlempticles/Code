@@ -20,6 +20,7 @@ collection of my LeetCode Solutions
 | [0035-search-insert-position](https://github.com/mrlempticles/Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mrlempticles/Code/tree/master/0040-combination-sum-ii) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -266,6 +267,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlempticles/Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/mrlempticles/Code/tree/master/0040-combination-sum-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
