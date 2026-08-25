@@ -18,6 +18,7 @@ collection of my LeetCode Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/mrlempticles/Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrlempticles/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrlempticles/Code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mrlempticles/Code/tree/master/0039-combination-sum) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
@@ -61,6 +62,7 @@ collection of my LeetCode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlempticles/Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -305,6 +307,7 @@ collection of my LeetCode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
