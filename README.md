@@ -25,6 +25,7 @@ collection of my LeetCode Solutions
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -194,6 +195,7 @@ collection of my LeetCode Solutions
 | [0016-3sum-closest](https://github.com/mrlempticles/Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -397,4 +399,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
