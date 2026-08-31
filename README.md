@@ -26,6 +26,7 @@ collection of my LeetCode Solutions
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -101,6 +102,7 @@ collection of my LeetCode Solutions
 | [0007-reverse-integer](https://github.com/mrlempticles/Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrlempticles/Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
