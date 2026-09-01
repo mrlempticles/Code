@@ -30,6 +30,7 @@ collection of my LeetCode Solutions
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -361,6 +362,7 @@ collection of my LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
