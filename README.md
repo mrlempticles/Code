@@ -32,6 +32,7 @@ collection of my LeetCode Solutions
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -75,6 +76,7 @@ collection of my LeetCode Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlempticles/Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -146,6 +148,7 @@ collection of my LeetCode Solutions
 | [0038-count-and-say](https://github.com/mrlempticles/Code/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -187,6 +190,7 @@ collection of my LeetCode Solutions
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -214,6 +218,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -412,4 +417,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
