@@ -33,6 +33,7 @@ collection of my LeetCode Solutions
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -109,6 +110,7 @@ collection of my LeetCode Solutions
 | [0009-palindrome-number](https://github.com/mrlempticles/Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -236,6 +238,7 @@ collection of my LeetCode Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mrlempticles/Code/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
