@@ -34,6 +34,7 @@ collection of my LeetCode Solutions
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -193,6 +194,7 @@ collection of my LeetCode Solutions
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
