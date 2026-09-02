@@ -36,6 +36,7 @@ collection of my LeetCode Solutions
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -113,6 +114,7 @@ collection of my LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/mrlempticles/Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -304,6 +306,7 @@ collection of my LeetCode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrlempticles/Code/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -359,6 +362,7 @@ collection of my LeetCode Solutions
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrlempticles/Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -438,4 +442,16 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
