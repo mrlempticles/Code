@@ -29,6 +29,7 @@ collection of my LeetCode Solutions
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
@@ -305,6 +306,7 @@ collection of my LeetCode Solutions
 | [0040-combination-sum-ii](https://github.com/mrlempticles/Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
@@ -384,6 +386,7 @@ collection of my LeetCode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
