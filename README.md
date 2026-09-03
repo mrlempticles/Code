@@ -28,6 +28,7 @@ collection of my LeetCode Solutions
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
@@ -213,6 +214,7 @@ collection of my LeetCode Solutions
 | [0018-4sum](https://github.com/mrlempticles/Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -242,6 +244,7 @@ collection of my LeetCode Solutions
 | [0027-remove-element](https://github.com/mrlempticles/Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrlempticles/Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mrlempticles/Code/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -430,6 +433,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 ## Memoization
 |  |
 | ------- |
@@ -454,4 +458,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
