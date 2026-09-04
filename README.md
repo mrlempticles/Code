@@ -40,6 +40,7 @@ collection of my LeetCode Solutions
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -202,6 +203,7 @@ collection of my LeetCode Solutions
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -356,6 +358,7 @@ collection of my LeetCode Solutions
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
