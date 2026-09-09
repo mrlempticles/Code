@@ -31,6 +31,7 @@ collection of my LeetCode Solutions
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
@@ -89,6 +90,7 @@ collection of my LeetCode Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlempticles/Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
@@ -466,6 +468,7 @@ collection of my LeetCode Solutions
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 ## Primality Test
 |  |
