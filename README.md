@@ -30,6 +30,7 @@ collection of my LeetCode Solutions
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
@@ -169,6 +170,7 @@ collection of my LeetCode Solutions
 | [0038-count-and-say](https://github.com/mrlempticles/Code/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
@@ -325,6 +327,7 @@ collection of my LeetCode Solutions
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/mrlempticles/Code/tree/master/0216-combination-sum-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
@@ -342,6 +345,7 @@ collection of my LeetCode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
@@ -374,6 +378,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
