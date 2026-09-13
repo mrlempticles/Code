@@ -27,6 +27,7 @@ collection of my LeetCode Solutions
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mrlempticles/Code/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
@@ -303,6 +304,7 @@ collection of my LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrlempticles/Code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -378,6 +380,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
