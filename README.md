@@ -26,6 +26,7 @@ collection of my LeetCode Solutions
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/mrlempticles/Code/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
