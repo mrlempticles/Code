@@ -28,6 +28,7 @@ collection of my LeetCode Solutions
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mrlempticles/Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mrlempticles/Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
@@ -213,6 +214,7 @@ collection of my LeetCode Solutions
 | [0010-regular-expression-matching](https://github.com/mrlempticles/Code/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/mrlempticles/Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/mrlempticles/Code/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/mrlempticles/Code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
@@ -381,6 +383,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mrlempticles/Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
