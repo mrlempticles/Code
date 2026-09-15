@@ -53,6 +53,7 @@ collection of my LeetCode Solutions
 | [0228-summary-ranges](https://github.com/mrlempticles/Code/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
@@ -207,6 +208,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
+| [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +392,7 @@ collection of my LeetCode Solutions
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
@@ -507,4 +510,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 <!---LeetCode Topics End-->
