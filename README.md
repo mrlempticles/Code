@@ -54,6 +54,7 @@ collection of my LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
@@ -223,6 +224,7 @@ collection of my LeetCode Solutions
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mrlempticles/Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
+| [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -241,6 +243,7 @@ collection of my LeetCode Solutions
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -290,6 +293,7 @@ collection of my LeetCode Solutions
 | [0045-jump-game-ii](https://github.com/mrlempticles/Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
