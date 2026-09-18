@@ -25,6 +25,7 @@ collection of my LeetCode Solutions
 | [0046-permutations](https://github.com/mrlempticles/Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/mrlempticles/Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mrlempticles/Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mrlempticles/Code/tree/master/0057-insert-interval) |
@@ -319,6 +320,7 @@ collection of my LeetCode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mrlempticles/Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrlempticles/Code/tree/master/2288-count-operations-to-obtain-zero) |
@@ -396,6 +398,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/mrlempticles/Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mrlempticles/Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/mrlempticles/Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
