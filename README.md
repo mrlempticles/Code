@@ -55,6 +55,7 @@ collection of my LeetCode Solutions
 | [0228-summary-ranges](https://github.com/mrlempticles/Code/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mrlempticles/Code/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
@@ -106,6 +107,7 @@ collection of my LeetCode Solutions
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -202,6 +204,7 @@ collection of my LeetCode Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrlempticles/Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrlempticles/Code/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/mrlempticles/Code/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/mrlempticles/Code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
@@ -250,6 +253,7 @@ collection of my LeetCode Solutions
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mrlempticles/Code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -284,6 +288,7 @@ collection of my LeetCode Solutions
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
