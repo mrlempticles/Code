@@ -37,6 +37,7 @@ collection of my LeetCode Solutions
 | [0078-subsets](https://github.com/mrlempticles/Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mrlempticles/Code/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/mrlempticles/Code/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
@@ -105,6 +106,7 @@ collection of my LeetCode Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlempticles/Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mrlempticles/Code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
@@ -224,6 +226,7 @@ collection of my LeetCode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/mrlempticles/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mrlempticles/Code/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
@@ -545,5 +548,10 @@ collection of my LeetCode Solutions
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
