@@ -60,6 +60,7 @@ collection of my LeetCode Solutions
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
@@ -244,6 +245,7 @@ collection of my LeetCode Solutions
 | [0213-house-robber-ii](https://github.com/mrlempticles/Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -319,6 +321,7 @@ collection of my LeetCode Solutions
 | [0045-jump-game-ii](https://github.com/mrlempticles/Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
