@@ -63,6 +63,7 @@ collection of my LeetCode Solutions
 | [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/mrlempticles/Code/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrlempticles/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
@@ -117,6 +118,7 @@ collection of my LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -153,6 +155,7 @@ collection of my LeetCode Solutions
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
@@ -419,6 +422,7 @@ collection of my LeetCode Solutions
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mrlempticles/Code/tree/master/3797-design-spreadsheet) |
@@ -564,4 +568,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
