@@ -112,6 +112,7 @@ collection of my LeetCode Solutions
 | [0073-set-matrix-zeroes](https://github.com/mrlempticles/Code/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mrlempticles/Code/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/mrlempticles/Code/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +143,7 @@ collection of my LeetCode Solutions
 | [0002-add-two-numbers](https://github.com/mrlempticles/Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/mrlempticles/Code/tree/master/0138-copy-list-with-random-pointer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
