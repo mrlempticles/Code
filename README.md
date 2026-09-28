@@ -116,6 +116,7 @@ collection of my LeetCode Solutions
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mrlempticles/Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrlempticles/Code/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
@@ -148,6 +149,7 @@ collection of my LeetCode Solutions
 | [0138-copy-list-with-random-pointer](https://github.com/mrlempticles/Code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mrlempticles/Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrlempticles/Code/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -430,6 +432,7 @@ collection of my LeetCode Solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
@@ -585,4 +588,8 @@ collection of my LeetCode Solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mrlempticles/Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrlempticles/Code/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
