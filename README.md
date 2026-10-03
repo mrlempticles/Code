@@ -57,6 +57,7 @@ collection of my LeetCode Solutions
 | [0228-summary-ranges](https://github.com/mrlempticles/Code/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mrlempticles/Code/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
@@ -260,6 +261,7 @@ collection of my LeetCode Solutions
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mrlempticles/Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/mrlempticles/Code/tree/master/0377-combination-sum-iv) |
@@ -427,6 +429,7 @@ collection of my LeetCode Solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -606,4 +609,12 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
