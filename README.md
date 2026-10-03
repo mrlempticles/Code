@@ -59,6 +59,7 @@ collection of my LeetCode Solutions
 | [0238-product-of-array-except-self](https://github.com/mrlempticles/Code/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/mrlempticles/Code/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/mrlempticles/Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
@@ -348,6 +349,7 @@ collection of my LeetCode Solutions
 | [0055-jump-game](https://github.com/mrlempticles/Code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mrlempticles/Code/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/mrlempticles/Code/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/mrlempticles/Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
@@ -625,4 +627,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mrlempticles/Code/tree/master/0324-wiggle-sort-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mrlempticles/Code/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
