@@ -175,6 +175,7 @@ collection of my LeetCode Solutions
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrlempticles/Code/tree/master/2288-count-operations-to-obtain-zero) |
@@ -275,6 +276,7 @@ collection of my LeetCode Solutions
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -447,6 +449,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
