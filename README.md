@@ -82,6 +82,7 @@ collection of my LeetCode Solutions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -176,6 +177,7 @@ collection of my LeetCode Solutions
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mrlempticles/Code/tree/master/2288-count-operations-to-obtain-zero) |
@@ -408,12 +410,14 @@ collection of my LeetCode Solutions
 | [0090-subsets-ii](https://github.com/mrlempticles/Code/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/mrlempticles/Code/tree/master/0216-combination-sum-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mrlempticles/Code/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Geometry
@@ -450,6 +454,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -511,6 +516,7 @@ collection of my LeetCode Solutions
 | [0090-subsets-ii](https://github.com/mrlempticles/Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mrlempticles/Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrlempticles/Code/tree/master/0137-single-number-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
