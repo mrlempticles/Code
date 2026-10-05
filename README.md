@@ -95,6 +95,7 @@ collection of my LeetCode Solutions
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mrlempticles/Code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mrlempticles/Code/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mrlempticles/Code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -186,6 +187,7 @@ collection of my LeetCode Solutions
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mrlempticles/Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mrlempticles/Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/mrlempticles/Code/tree/master/3336-water-bottles-ii) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mrlempticles/Code/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mrlempticles/Code/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -281,6 +283,7 @@ collection of my LeetCode Solutions
 | [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mrlempticles/Code/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
@@ -307,6 +310,7 @@ collection of my LeetCode Solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mrlempticles/Code/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mrlempticles/Code/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
 |  |
@@ -456,6 +460,7 @@ collection of my LeetCode Solutions
 | [1641-count-sorted-vowel-strings](https://github.com/mrlempticles/Code/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mrlempticles/Code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/mrlempticles/Code/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/mrlempticles/Code/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mrlempticles/Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
