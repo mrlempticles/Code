@@ -79,6 +79,7 @@ collection of my LeetCode Solutions
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/mrlempticles/Code/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/mrlempticles/Code/tree/master/0665-non-decreasing-array) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
