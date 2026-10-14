@@ -77,6 +77,7 @@ collection of my LeetCode Solutions
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -133,6 +134,7 @@ collection of my LeetCode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrlempticles/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mrlempticles/Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -374,6 +376,7 @@ collection of my LeetCode Solutions
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrlempticles/Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -387,6 +390,7 @@ collection of my LeetCode Solutions
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrlempticles/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
