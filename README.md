@@ -76,6 +76,7 @@ collection of my LeetCode Solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mrlempticles/Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -246,6 +247,7 @@ collection of my LeetCode Solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrlempticles/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/mrlempticles/Code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -310,6 +312,7 @@ collection of my LeetCode Solutions
 | [0436-find-right-interval](https://github.com/mrlempticles/Code/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mrlempticles/Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -348,6 +351,7 @@ collection of my LeetCode Solutions
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
@@ -382,6 +386,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mrlempticles/Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
@@ -544,6 +549,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
 | ------- |
