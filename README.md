@@ -228,6 +228,7 @@ collection of my LeetCode Solutions
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/mrlempticles/Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -333,6 +334,7 @@ collection of my LeetCode Solutions
 | [0014-longest-common-prefix](https://github.com/mrlempticles/Code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/mrlempticles/Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -459,6 +461,7 @@ collection of my LeetCode Solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -489,6 +492,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/mrlempticles/Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [2043-simple-bank-system](https://github.com/mrlempticles/Code/tree/master/2043-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/mrlempticles/Code/tree/master/3678-design-task-manager) |
