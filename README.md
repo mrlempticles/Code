@@ -179,6 +179,7 @@ collection of my LeetCode Solutions
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -209,6 +210,7 @@ collection of my LeetCode Solutions
 | [0002-add-two-numbers](https://github.com/mrlempticles/Code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/mrlempticles/Code/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ collection of my LeetCode Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/mrlempticles/Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -286,6 +289,7 @@ collection of my LeetCode Solutions
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mrlempticles/Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/mrlempticles/Code/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/mrlempticles/Code/tree/master/0376-wiggle-subsequence) |
@@ -606,6 +610,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mrlempticles/Code/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -680,4 +685,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mrlempticles/Code/tree/master/0334-increasing-triplet-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
