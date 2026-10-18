@@ -178,6 +178,7 @@ collection of my LeetCode Solutions
 | [0066-plus-one](https://github.com/mrlempticles/Code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/mrlempticles/Code/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -229,6 +230,7 @@ collection of my LeetCode Solutions
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/mrlempticles/Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -341,6 +343,7 @@ collection of my LeetCode Solutions
 | [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 ## Two Pointers
 |  |
 | ------- |
