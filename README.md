@@ -81,6 +81,7 @@ collection of my LeetCode Solutions
 | [0661-image-smoother](https://github.com/mrlempticles/Code/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/mrlempticles/Code/tree/master/0665-non-decreasing-array) |
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
+| [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
@@ -296,6 +297,7 @@ collection of my LeetCode Solutions
 | [0377-combination-sum-iv](https://github.com/mrlempticles/Code/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
+| [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -368,6 +370,7 @@ collection of my LeetCode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/mrlempticles/Code/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
@@ -450,6 +453,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrlempticles/Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mrlempticles/Code/tree/master/2174-next-greater-numerically-balanced-number) |
