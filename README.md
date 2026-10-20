@@ -83,6 +83,7 @@ collection of my LeetCode Solutions
 | [0830-largest-triangle-area](https://github.com/mrlempticles/Code/tree/master/0830-largest-triangle-area) |
 | [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
@@ -238,6 +239,7 @@ collection of my LeetCode Solutions
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
+| [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mrlempticles/Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mrlempticles/Code/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -431,6 +433,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrlempticles/Code/tree/master/0238-product-of-array-except-self) |
+| [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mrlempticles/Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mrlempticles/Code/tree/master/1930-unique-length-3-palindromic-subsequences) |
