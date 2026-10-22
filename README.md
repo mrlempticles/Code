@@ -474,6 +474,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -655,6 +656,7 @@ collection of my LeetCode Solutions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -663,6 +665,7 @@ collection of my LeetCode Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -700,4 +703,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
