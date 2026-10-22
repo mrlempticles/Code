@@ -477,6 +477,7 @@ collection of my LeetCode Solutions
 | [0079-word-search](https://github.com/mrlempticles/Code/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mrlempticles/Code/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -491,6 +492,7 @@ collection of my LeetCode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mrlempticles/Code/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/mrlempticles/Code/tree/master/0133-clone-graph) |
@@ -662,6 +664,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mrlempticles/Code/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -672,6 +675,7 @@ collection of my LeetCode Solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mrlempticles/Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/mrlempticles/Code/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/mrlempticles/Code/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
