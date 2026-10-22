@@ -356,6 +356,7 @@ collection of my LeetCode Solutions
 | [0020-valid-parentheses](https://github.com/mrlempticles/Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mrlempticles/Code/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mrlempticles/Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mrlempticles/Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 ## Two Pointers
 |  |
@@ -486,6 +487,7 @@ collection of my LeetCode Solutions
 | [0129-sum-root-to-leaf-numbers](https://github.com/mrlempticles/Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/mrlempticles/Code/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/mrlempticles/Code/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mrlempticles/Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
@@ -675,6 +677,7 @@ collection of my LeetCode Solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mrlempticles/Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mrlempticles/Code/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mrlempticles/Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 ## Binary Tree
 |  |
@@ -688,6 +691,7 @@ collection of my LeetCode Solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mrlempticles/Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mrlempticles/Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mrlempticles/Code/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mrlempticles/Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Randomized
 |  |
 | ------- |
