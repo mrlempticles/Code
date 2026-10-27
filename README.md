@@ -174,6 +174,7 @@ collection of my LeetCode Solutions
 | [0142-linked-list-cycle-ii](https://github.com/mrlempticles/Code/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mrlempticles/Code/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/mrlempticles/Code/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/mrlempticles/Code/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mrlempticles/Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -281,6 +282,7 @@ collection of my LeetCode Solutions
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mrlempticles/Code/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mrlempticles/Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/mrlempticles/Code/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/mrlempticles/Code/tree/master/0324-wiggle-sort-ii) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
@@ -324,6 +326,7 @@ collection of my LeetCode Solutions
 | [0047-permutations-ii](https://github.com/mrlempticles/Code/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/mrlempticles/Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mrlempticles/Code/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/mrlempticles/Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mrlempticles/Code/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/mrlempticles/Code/tree/master/0324-wiggle-sort-ii) |
@@ -376,6 +379,7 @@ collection of my LeetCode Solutions
 | [0141-linked-list-cycle](https://github.com/mrlempticles/Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mrlempticles/Code/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mrlempticles/Code/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mrlempticles/Code/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/mrlempticles/Code/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/mrlempticles/Code/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
@@ -609,6 +613,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mrlempticles/Code/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/mrlempticles/Code/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
