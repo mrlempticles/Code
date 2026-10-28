@@ -85,6 +85,7 @@ collection of my LeetCode Solutions
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
@@ -309,6 +310,7 @@ collection of my LeetCode Solutions
 | [0435-non-overlapping-intervals](https://github.com/mrlempticles/Code/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
+| [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mrlempticles/Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mrlempticles/Code/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -555,6 +557,7 @@ collection of my LeetCode Solutions
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0661-image-smoother](https://github.com/mrlempticles/Code/tree/master/0661-image-smoother) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
