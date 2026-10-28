@@ -84,6 +84,7 @@ collection of my LeetCode Solutions
 | [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
+| [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
@@ -514,6 +515,7 @@ collection of my LeetCode Solutions
 | [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
@@ -552,6 +554,7 @@ collection of my LeetCode Solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/mrlempticles/Code/tree/master/0427-construct-quad-tree) |
 | [0661-image-smoother](https://github.com/mrlempticles/Code/tree/master/0661-image-smoother) |
+| [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
