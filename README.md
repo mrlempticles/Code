@@ -86,6 +86,7 @@ collection of my LeetCode Solutions
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [1018-largest-perimeter-triangle](https://github.com/mrlempticles/Code/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mrlempticles/Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrlempticles/Code/tree/master/1250-check-if-it-is-a-good-array) |
@@ -503,6 +504,7 @@ collection of my LeetCode Solutions
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -518,6 +520,7 @@ collection of my LeetCode Solutions
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
@@ -558,6 +561,7 @@ collection of my LeetCode Solutions
 | [0661-image-smoother](https://github.com/mrlempticles/Code/tree/master/0661-image-smoother) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mrlempticles/Code/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mrlempticles/Code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/mrlempticles/Code/tree/master/2536-increment-submatrices-by-one) |
