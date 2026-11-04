@@ -51,6 +51,7 @@ collection of my LeetCode Solutions
 | [0198-house-robber](https://github.com/mrlempticles/Code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mrlempticles/Code/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mrlempticles/Code/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/mrlempticles/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/mrlempticles/Code/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/mrlempticles/Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/mrlempticles/Code/tree/master/0217-contains-duplicate) |
@@ -270,6 +271,7 @@ collection of my LeetCode Solutions
 | [0035-search-insert-position](https://github.com/mrlempticles/Code/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/mrlempticles/Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrlempticles/Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mrlempticles/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/mrlempticles/Code/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -452,6 +454,7 @@ collection of my LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mrlempticles/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mrlempticles/Code/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1590-make-sum-divisible-by-p](https://github.com/mrlempticles/Code/tree/master/1590-make-sum-divisible-by-p) |
@@ -617,6 +620,7 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/mrlempticles/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 ## Database
