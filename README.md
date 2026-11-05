@@ -146,6 +146,7 @@ collection of my LeetCode Solutions
 | [0349-intersection-of-two-arrays](https://github.com/mrlempticles/Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrlempticles/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
@@ -249,6 +250,7 @@ collection of my LeetCode Solutions
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -527,6 +529,7 @@ collection of my LeetCode Solutions
 | [0322-coin-change](https://github.com/mrlempticles/Code/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -762,4 +765,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mrlempticles/Code/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
