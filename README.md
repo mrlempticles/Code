@@ -147,6 +147,7 @@ collection of my LeetCode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/mrlempticles/Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mrlempticles/Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlempticles/Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mrlempticles/Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mrlempticles/Code/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
@@ -251,6 +252,7 @@ collection of my LeetCode Solutions
 | [0227-basic-calculator-ii](https://github.com/mrlempticles/Code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mrlempticles/Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlempticles/Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/mrlempticles/Code/tree/master/0474-ones-and-zeroes) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrlempticles/Code/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -625,6 +627,7 @@ collection of my LeetCode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrlempticles/Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mrlempticles/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mrlempticles/Code/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlempticles/Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
