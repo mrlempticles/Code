@@ -87,6 +87,7 @@ collection of my LeetCode Solutions
 | [0845-longest-mountain-in-array](https://github.com/mrlempticles/Code/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
+| [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
@@ -516,6 +517,7 @@ collection of my LeetCode Solutions
 | [0211-design-add-and-search-words-data-structure](https://github.com/mrlempticles/Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0365-water-and-jug-problem](https://github.com/mrlempticles/Code/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mrlempticles/Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
 | [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mrlempticles/Code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/mrlempticles/Code/tree/master/3863-power-grid-maintenance) |
@@ -768,8 +770,17 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mrlempticles/Code/tree/master/0133-clone-graph) |
+| [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/mrlempticles/Code/tree/master/0433-minimum-genetic-mutation) |
+## Topological Sort
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
