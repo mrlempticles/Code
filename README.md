@@ -88,6 +88,7 @@ collection of my LeetCode Solutions
 | [0846-hand-of-straights](https://github.com/mrlempticles/Code/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/mrlempticles/Code/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mrlempticles/Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0909-snakes-and-ladders](https://github.com/mrlempticles/Code/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/mrlempticles/Code/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/mrlempticles/Code/tree/master/0934-shortest-bridge) |
@@ -284,6 +285,7 @@ collection of my LeetCode Solutions
 | [0436-find-right-interval](https://github.com/mrlempticles/Code/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/mrlempticles/Code/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mrlempticles/Code/tree/master/0658-find-k-closest-elements) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mrlempticles/Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mrlempticles/Code/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mrlempticles/Code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mrlempticles/Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -783,4 +785,8 @@ collection of my LeetCode Solutions
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/mrlempticles/Code/tree/master/0851-loud-and-rich) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mrlempticles/Code/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
