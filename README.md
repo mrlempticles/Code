@@ -643,6 +643,7 @@ collection of my LeetCode Solutions
 | [0181-employees-earning-more-than-their-managers](https://github.com/mrlempticles/Code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1729-find-followers-count](https://github.com/mrlempticles/Code/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mrlempticles/Code/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/mrlempticles/Code/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Merge Sort
 |  |
 | ------- |
